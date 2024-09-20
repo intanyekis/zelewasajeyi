@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zelewasajeyi.vercel.app/sitemap.xml
